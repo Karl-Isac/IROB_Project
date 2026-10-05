@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.gitignore": true,
+        "**/.pixi": true,
+        "**/build": true,
+        "**/install": true,
+        "**/log": true,
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/pixi": true,
+        "**/scripts": true,
+
+        "src/Warehouse_robot/create3_sim": true,
+        "src/Warehouse_robot/turtlebot4": true,
+        "src/Warehouse_robot/turtlebot4_simulator": true,
+        "src/Warehouse_robot/xarm_ros2": true
+    }
+}
